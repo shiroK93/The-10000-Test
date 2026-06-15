@@ -332,8 +332,9 @@ It becomes itself by distorting reality in its own way.
 ```bash
 git clone https://github.com/yourname/the-10000-test.git
 cd the-10000-test
-python bot_7_36.py
+python test.x.py
 ```
+Note: x is the version you want to run
 
 The script generates:
 
@@ -355,6 +356,22 @@ Reuse freely.
 Most importantly:
 
 > Do not spend six days rediscovering this wall.
+---
+
+## What This Does NOT Prove
+
+This experiment does NOT prove that personality cannot emerge.
+
+It only proves that personality does not emerge from:
+
+- Shared event encoding
+- WTA feedback alone
+- Activation-level path dependence
+- Simple state-to-state dynamics
+
+A future architecture may still produce stable identity by
+changing how events are interpreted rather than how activations
+are reinforced.
 
 ---
 
